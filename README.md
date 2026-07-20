@@ -3,3 +3,11 @@
 # QuingKhaos' Bioprocessing Group
 
 Adds a new group for organic items and recipes. Drop-in replacement and spiritual successor to Frontrider's Bio Processing Group for 2.1, supports 2.0 too.
+
+## For modders
+
+You just need to add `khaosbioprocessinggroup` as optional dependency without any other changes. All your conditional checks for Frontrider's Bio Processing Group will work with this mod too.
+
+## Credits
+
+Credits to [Frontrider](https://mods.factorio.com/user/frontrider) for the original Bio Processing Group mod, which was the inspiration for this mod. My autistic brain just couldn't handle the change to the Chemistry tab in 2.1. This mod is a clean-room implementation, I didn't look at the original mod's code.
