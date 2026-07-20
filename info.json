@@ -1,19 +1,20 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESC###",
+  "name": "khaosbioprocessinggroup",
+  "title": "QuingKhaos' Bioprocessing Group",
+  "description": "Adds a new group for organic items and recipes. Drop-in replacement and spiritual successor to Frontrider's Bio Processing Group for 2.1, supports 2.0 too.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
+    "space-age >= 2.0.77",
 
-    "khaosbash",
-    "khaoslib"
+    "khaoslib >= 1.17.2"
   ],
   "package": {
     "ignore": [
+      "mod_info.yml",
       "**/*.svg",
       "**/*.xcf"
     ]
