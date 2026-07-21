@@ -4,6 +4,16 @@
 
 Adds a new group for organic items and recipes. Drop-in replacement and spiritual successor to Frontrider's Bio Processing Group for 2.1, supports 2.0 too.
 
+## Compatible mods
+
+For the following mods, items and recipes are sorted into the new bioprocessing group:
+
+- [Wooden Aquilo: Seabloom Algaculture](https://mods.factorio.com/mod/aquilo-seabloom-algaculture)ᵃ
+
+If you want to see another mod made compatible, please open a discussion thread on the mod portal, or an issue on GitHub, or join the Discord server and let me know.
+
+ᵃ: As of 2026-07-22 this mod is not yet available for Factorio 2.1. The compatibility layer for this mod is still included, so if the mod is updated for Factorio 2.1, the compatibility will be applied automatically.
+
 ## For modders
 
 You just need to add `khaosbioprocessinggroup` as optional dependency without any other changes. All your conditional checks for Frontrider's Bio Processing Group will work with this mod too.
