@@ -10,6 +10,7 @@ For the following mods, items and recipes are sorted into the new bioprocessing 
 
 - [Astroponics](https://mods.factorio.com/mod/astroponics)
 - [Wooden Aquilo: Seabloom Algaculture](https://mods.factorio.com/mod/aquilo-seabloom-algaculture)
+- [Wooden Cerys: Lunaponics](https://mods.factorio.com/mod/cerys-lunaponics)
 - [Wooden Fulgora: Coralmium Agriculture](https://mods.factorio.com/mod/fulgora-coralmium-agriculture)
 - [Wooden Vulcanus: Sulfuric Bacteria](https://mods.factorio.com/mod/vulcanus-sulfuric-bacteria)
 
