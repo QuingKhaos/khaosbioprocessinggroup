@@ -10,6 +10,7 @@ For the following mods, items and recipes are sorted into the new bioprocessing 
 
 - [Wooden Aquilo: Seabloom Algaculture](https://mods.factorio.com/mod/aquilo-seabloom-algaculture)
 - [Wooden Fulgora: Coralmium Agriculture](https://mods.factorio.com/mod/fulgora-coralmium-agriculture)
+- [Wooden Vulcanus: Sulfuric Bacteria](https://mods.factorio.com/mod/vulcanus-sulfuric-bacteria)
 
 If you want to see another mod made compatible, please open a discussion thread on the mod portal, or an issue on GitHub, or join the Discord server and let me know.
 
