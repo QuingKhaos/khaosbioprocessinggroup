@@ -12,6 +12,7 @@ Date: ????
   Compatibility:
     - Add support for Wooden Aquilo: Seabloom Algaculture.
     - Add support for Wooden Fulgora: Coralmium Agriculture.
+    - Add support for Wooden Vulcanus: Sulfuric Bacteria.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-07-20
