@@ -13,6 +13,7 @@
     "khaoslib >= 2.0.0",
 
     "? aquilo-seabloom-algaculture >= 0.4.4",
+    "? astroponics >= 1.8.1",
     "? fulgora-coralmium-agriculture >= 1.2.7",
     "? vulcanus-sulfuric-bacteria >= 1.2.2",
 
