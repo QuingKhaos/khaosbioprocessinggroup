@@ -9,6 +9,7 @@ Adds a new group for organic items and recipes. Drop-in replacement and spiritua
 For the following mods, items and recipes are sorted into the new bioprocessing group:
 
 - [Wooden Aquilo: Seabloom Algaculture](https://mods.factorio.com/mod/aquilo-seabloom-algaculture)ᵃ
+- [Wooden Fulgora: Coralmium Agriculture](https://mods.factorio.com/mod/fulgora-coralmium-agriculture)ᵃ
 
 If you want to see another mod made compatible, please open a discussion thread on the mod portal, or an issue on GitHub, or join the Discord server and let me know.
 
