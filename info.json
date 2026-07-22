@@ -4,7 +4,7 @@
   "description": "Adds a new group for organic items and recipes. Drop-in replacement and spiritual successor to Frontrider's Bio Processing Group for 2.1, supports 2.0 too.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
@@ -13,6 +13,7 @@
     "khaoslib >= 1.17.2",
 
     "? aquilo-seabloom-algaculture >= 0.4.4",
+    "? astroponics >= 1.8.1",
     "? fulgora-coralmium-agriculture >= 1.2.7",
     "? vulcanus-sulfuric-bacteria >= 1.2.2",
 
