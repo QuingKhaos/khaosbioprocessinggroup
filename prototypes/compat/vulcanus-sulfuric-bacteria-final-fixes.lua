@@ -1,4 +1,3 @@
-local khaoslib_capsule = require("__khaoslib__.prototypes.capsule")
 local khaoslib_item = require("__khaoslib__.prototypes.item")
 local khaoslib_item_subgroup = require("__khaoslib__.prototypes.item-subgroup")
 local khaoslib_recipe = require("__khaoslib__.prototypes.recipe")

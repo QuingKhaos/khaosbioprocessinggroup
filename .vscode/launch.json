@@ -21,6 +21,6 @@
             "request": "launch",
             "script": "${workspaceFolder}/.dev/factorio_2.1.ps1",
             "args": []
-        },
+        }
     ]
 }
