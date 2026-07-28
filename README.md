@@ -9,6 +9,7 @@ Adds a new group for organic items and recipes. Drop-in replacement and spiritua
 For the following mods, items and recipes are sorted into the new bioprocessing group:
 
 - [Astroponics](https://mods.factorio.com/mod/astroponics)
+- [Lignumis](https://mods.factorio.com/mod/lignumis)
 - [Wooden Aquilo: Seabloom Algaculture](https://mods.factorio.com/mod/aquilo-seabloom-algaculture)ᵃ
 - [Wooden Cerys: Lunaponics](https://mods.factorio.com/mod/cerys-lunaponics)ᵃ
 - [Wooden Fulgora: Coralmium Agriculture](https://mods.factorio.com/mod/fulgora-coralmium-agriculture)ᵃ

@@ -3,7 +3,7 @@ mod_info:
   summary: |
     Adds a new group for organic items and recipes. Drop-in replacement and spiritual successor to Frontrider's Bio Processing Group for 2.1, supports 2.0 too.
 
-    With built-in support for several mods from Wooden Universe.
+    With built-in support for several bioprocessing related mods.
   description_file: README.md
   attach_source_link: true
   license: default_gnulgplv3
